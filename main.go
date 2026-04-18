@@ -2,7 +2,7 @@
 // @version         1.0.0.1
 // @description     API server untuk SJEK
 
-// @host      localhost:8080
+// @host      localhost:8080  mmmm m mnm
 // @BasePath  /
 
 // @securityDefinitions.apikey BearerAuth
